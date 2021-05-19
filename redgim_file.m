@@ -1,0 +1,1 @@
+[analysis, images] = redgim_reader('redgim_predict_example_sample_separated.red');
